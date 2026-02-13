@@ -81,6 +81,14 @@ Steps:
 5. Configure Security Group
 6. Launch
 
+Important: Connected to EC2 using PuTTY -- but also possible to use CMD line with OpenSSH apparently
+
+Demo Project wrap up:
+ - Created EC2 Instance
+ - Installed Docker 
+ - Pulled Image from Private Repo
+ - Started Docker container
+ - Modified Firewall: Open port to allow access from internet
 ---
 
 # 🐳 ECR (Elastic Container Registry)
